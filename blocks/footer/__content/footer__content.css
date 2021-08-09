@@ -1,10 +1,8 @@
 .footer__content {
-  margin: 0px;
+  margin: 92px auto 0;
   width: calc(100% - 96px);
   height: 18px;
-  margin: auto;
   display: flex;
-  margin-top: 92px;
   padding-bottom: 24px;
   justify-content: space-between;
 }
