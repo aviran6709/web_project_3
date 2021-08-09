@@ -1,0 +1,25 @@
+.place__paragraph_secend {
+  margin: 0;
+  margin-top: 25px;
+  font-family: Inter;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 163%;
+  color: #ffffff;
+}
+@media screen and (max-width: 768px) {
+  .place__paragraph_secend {
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 163%;
+  }
+}
+@media screen and (max-width: 320px) {
+  .place__paragraph_secend {
+    width: 288px;
+    margin: auto;
+  }
+}

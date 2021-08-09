@@ -1,0 +1,23 @@
+.place__link {
+  width: 100%;
+  display: inline-block;
+  margin: 0;
+  margin-bottom: 48px;
+  font-family: Inter;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 22px; /* identical to box height, or 122%
+    */
+  color: #ffffff;
+}
+.place__link:hover {
+  opacity: 0.8;
+}
+@media screen and (max-width: 320px) {
+  .place__link {
+    box-sizing: border-box;
+    margin-bottom: 30px;
+    padding-left: 16px;
+  }
+}

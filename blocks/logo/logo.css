@@ -1,0 +1,10 @@
+.logo {
+  margin-top: 34px; /* on small screen need to change with media q*/
+}
+@media screen and (max-width: 320px) {
+  .logo {
+    min-width: 156px;
+    height: 36px;
+    margin-top: 20px;
+  }
+}
