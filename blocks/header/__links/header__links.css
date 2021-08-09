@@ -5,7 +5,7 @@
   display: flex;
   list-style: none;
 }
-.header__links_En {
+.header__links-en {
   color: #ffffff;
   font-family: Inter;
   font-style: normal;
@@ -13,10 +13,10 @@
   font-size: 24px;
   line-height: 1.75;
 }
-.header__links_En:hover {
+.header__links-en:hover {
   opacity: 0.8;
 }
-.header__links_Es {
+.header__links-es {
   margin: 0;
   margin-top: 46px;
   color: #ffffff;
@@ -28,11 +28,11 @@
   font-size: 24px;
   line-height: 1.75;
 }
-.header__links_Es:hover {
+.header__links-es:hover {
   opacity: 0.8;
 }
 @media screen and (max-width: 320px) {
-  .header__links_En {
+  .header__links-en {
     font-family: Inter;
     font-style: normal;
     font-weight: normal;
@@ -45,7 +45,7 @@
   }
 }
 @media screen and (max-width: 320px) {
-  .header__links_Es {
+  .header__links-es {
     font-family: Inter;
     font-style: normal;
     font-weight: normal;
