@@ -1,20 +1,28 @@
 # Project 3: From Portland to Portland
 
-### Overview
-* Intro
-* Figma
-* Images
+###This site is sprint 3 that made for practicum
+An epic bicycle journey from Portland, ME. to Portland, OR
+A travel diary that presents
+Prices Photos and wonderful places and contains the following
+1 responsive web for many screen
+*1280
+*1024
+*786
+*320
+2 places from Portland, ME. to Portland, OR
+*maine
+*New Hampshire
+*New york
+*Erie, PA
+\*Ohio
+3 grid layers with wonderful potho
 
-**Intro**
+The site is made up of flexible layers flex box grid
+used media quarry for brickpoint
+from any device
+(https://aviran6709.github.io/web_project_3/index.html)
+And was created under the guidance of Practicum 100
+(https://www.yandex.com)
 
-This is a project about traveling across the US. We've made it so all the elements are displayed correctly on popular screen sizes. We recommend investing more time in completing this project, since it's more difficult than previous ones.
-
-**Figma**
-
-* [Link to the project on Figma](https://www.figma.com/file/AtbNbstbxWPcMqvF061V0R/Sprint-3%3A-From-Portland-to-Portland-%7C-desktop-%2B-mobile?node-id=0%3A1)
-
-**Images**
-
-The way you'll do this at work is by exporting images directly from Figma — we recommend doing that to practice more. Don't forget to optimize them [here](https://tinypng.com/), so your project loads faster. 
-
-Good luck and have fun!
+made with HTML and CSS
+By aviran
