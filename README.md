@@ -15,14 +15,14 @@ Prices Photos and wonderful places and contains the following
 *New york
 *Erie, PA
 \*Ohio
-3 grid layers with wonderful potho
+3 grid layers with wonderful photo
 
-The site is made up of flexible layers flex box grid
-used media quarry for brickpoint
+The site is made up of flexible layers flex box, grid
+used media quarry for breakpoint
 from any device
 (https://aviran6709.github.io/web_project_3/index.html)
 And was created under the guidance of Practicum 100
 (https://www.yandex.com)
 
 made with HTML and CSS
-By aviran
+By Aviran
