@@ -8,18 +8,19 @@
   line-height: 163%; /* or 29px */
   color: #ffffff;
 }
-@media screen and (max-width: 320px) {
-  .place__paragraph {
-    width: 288px;
-    margin: auto;
-  }
-}
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 1024px) {
   .place__paragraph {
     font-family: Inter;
     font-style: normal;
     font-weight: normal;
     font-size: 16px;
     line-height: 163%;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .place__paragraph {
+    min-width: 288px;
+    margin-bottom: 25px;
   }
 }

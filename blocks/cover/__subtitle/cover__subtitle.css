@@ -10,7 +10,7 @@
   z-index: 3;
   color: #ffffff;
 }
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 768px) {
   .cover__subtitle {
     font-family: Inter;
     font-style: normal;

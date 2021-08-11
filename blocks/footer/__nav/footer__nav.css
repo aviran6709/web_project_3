@@ -4,7 +4,7 @@
   list-style: none;
   display: flex;
 }
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 768px) {
   .footer__nav {
     display: flex;
     flex-direction: column;
@@ -12,7 +12,7 @@
     margin-top: 64px;
   }
 }
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 768px) {
   .footer__nav :nth-child(2) {
     margin: 32px 0;
   }
