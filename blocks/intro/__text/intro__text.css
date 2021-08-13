@@ -11,11 +11,6 @@
 @media screen and (max-width: 768px) {
   .intro__text {
     min-width: 288px;
-    font-family: Inter;
-    font-style: normal;
-    font-weight: normal;
-    font-size: 16px;
-    line-height: 163%;
     margin: auto;
     /* or 26px */
   }

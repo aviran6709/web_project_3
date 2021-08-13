@@ -1,19 +1,18 @@
-.footer__nav {
+.footer__about {
   margin: 0;
   padding: 0;
   list-style: none;
   display: flex;
 }
 @media screen and (max-width: 768px) {
-  .footer__nav {
-    display: flex;
+  .footer__about {
     flex-direction: column;
     margin-bottom: 48px;
     margin-top: 64px;
   }
 }
 @media screen and (max-width: 768px) {
-  .footer__nav :nth-child(2) {
+  .footer__about :nth-child(2) {
     margin: 32px 0;
   }
 }

@@ -1,6 +1,6 @@
 .place__link {
+  display: flex;
   width: 100%;
-  display: inline-block;
   margin: 0;
   margin-bottom: 48px;
   font-family: Inter;

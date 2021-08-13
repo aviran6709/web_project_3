@@ -1,6 +1,6 @@
 .intro__container {
-  margin: auto;
-  width: 690px;
+  margin: 0;
+  max-width: 690px;
   margin-left: 148px;
 }
 @media screen and (max-width: 1024px) {
@@ -11,7 +11,6 @@
 }
 @media screen and (max-width: 768px) {
   .intro__container {
-    width: calc(100% - 16px * 2);
-    margin: auto;
+    max-width: calc(100% - 16px * 2);
   }
 }
