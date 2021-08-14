@@ -1,23 +1,11 @@
 .place__link {
-  display: flex;
-  width: 100%;
-  margin: 0;
-  margin-bottom: 48px;
-  font-family: Inter;
-  font-style: normal;
-  font-weight: normal;
-  font-size: 18px;
-  line-height: 22px; /* identical to box height, or 122%
-    */
   color: #ffffff;
+  font-size: 18px;
+  font-weight: normal;
+  line-height: 1.2;
+  margin: 0;
+  padding: 0;
 }
 .place__link:hover {
   opacity: 0.8;
-}
-@media screen and (max-width: 768px) {
-  .place__link {
-    box-sizing: border-box;
-    margin-bottom: 30px;
-    padding-left: 16px;
-  }
 }

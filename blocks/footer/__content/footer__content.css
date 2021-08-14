@@ -1,6 +1,5 @@
 .footer__content {
   margin: 92px auto 0;
-  width: calc(100% - 96px);
   display: flex;
   padding-bottom: 24px;
   justify-content: space-between;
@@ -10,7 +9,7 @@
     margin-top: 88px;
   }
 }
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 460px) {
   .footer__content {
     margin: 0;
     flex-direction: column;

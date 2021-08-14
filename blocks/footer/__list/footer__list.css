@@ -1,18 +1,18 @@
-.footer__about {
+.footer__list {
   margin: 0;
   padding: 0;
   list-style: none;
   display: flex;
 }
-@media screen and (max-width: 768px) {
-  .footer__about {
+@media screen and (max-width: 460px) {
+  .footer__list {
     flex-direction: column;
     margin-bottom: 48px;
     margin-top: 64px;
   }
 }
-@media screen and (max-width: 768px) {
-  .footer__about :nth-child(2) {
+@media screen and (max-width: 460px) {
+  .footer__list :nth-child(2) {
     margin: 32px 0;
   }
 }
