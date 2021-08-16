@@ -10,8 +10,8 @@
     max-width: 928px;
   }
 }
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 767px) {
   .header__bar {
-    max-width: 720px;
+    width: calc(100% - 32px);
   }
 }

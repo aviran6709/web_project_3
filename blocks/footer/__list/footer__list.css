@@ -7,8 +7,6 @@
 @media screen and (max-width: 500px) {
   .footer__list {
     flex-direction: column;
-    margin-bottom: 48px;
-    margin-top: 64px;
   }
 }
 @media screen and (max-width: 500px) {
