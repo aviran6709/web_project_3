@@ -10,7 +10,18 @@
   /* or 107% */
   color: #ffffff;
 }
-@media screen and (max-width: 680px) {
+@media screen and (max-width: 1279px) {
+  .intro__title {
+    min-width: 288px;
+  }
+}
+@media screen and (max-width: 1023px) {
+  .intro__title {
+    max-width: 720px;
+    margin-top: 88px;
+  }
+}
+@media screen and (max-width: 767px) {
   .intro__title {
     min-width: 288px;
     font-size: 32px;

@@ -9,7 +9,13 @@
 
   color: #ffffff;
 }
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 1023px) {
+  .intro__subtitle {
+    max-width: 720px;
+    margin: 40px auto 32px;
+  }
+}
+@media screen and (max-width: 767px) {
   .intro__subtitle {
     min-width: 288px;
     line-height: 30px;
